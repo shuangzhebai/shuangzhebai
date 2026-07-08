@@ -4,6 +4,9 @@
 
 [![GitHub Release](https://img.shields.io/github/v/release/shuangzhebai/gaokao-analyzer?style=flat&logo=github)](https://github.com/shuangzhebai/gaokao-analyzer/releases/tag/v6.0.0)
 [![Tests](https://img.shields.io/badge/Tests-207%20passed-success?logo=pytest)](https://github.com/shuangzhebai/gaokao-analyzer/actions)
+[![Docs](https://img.shields.io/badge/Docs-GitHub%20Pages-3ECC5F?logo=docusaurus)](https://shuangzhebai.github.io/gaokao-analyzer)
+[![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/shuangzhebai/gaokao-analyzer/blob/main/LICENSE)
+[![Tests](https://img.shields.io/badge/Tests-207%20passed-success?logo=pytest)](https://github.com/shuangzhebai/gaokao-analyzer/actions)
 [![Python](https://img.shields.io/badge/Python-3.13%2B-blue?logo=python)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/shuangzhebai/gaokao-analyzer/blob/main/LICENSE)
 
