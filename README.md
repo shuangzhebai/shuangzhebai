@@ -1,6 +1,15 @@
 ## 👋 Hi, I'm shuangzhebai
 
-I build **gaokao-analyzer** — an intelligent exam paper analysis system using IRT (Item Response Theory) and Monte Carlo simulation.
+**gaokao-analyzer** — the most advanced open-source Gaokao exam paper analysis engine.
+
+[![GitHub Release](https://img.shields.io/github/v/release/shuangzhebai/gaokao-analyzer?style=flat&logo=github)](https://github.com/shuangzhebai/gaokao-analyzer/releases/tag/v6.0.0)
+[![Tests](https://img.shields.io/badge/Tests-207%20passed-success?logo=pytest)](https://github.com/shuangzhebai/gaokao-analyzer/actions)
+[![Python](https://img.shields.io/badge/Python-3.13%2B-blue?logo=python)](https://python.org)
+[![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/shuangzhebai/gaokao-analyzer/blob/main/LICENSE)
+
+### 🚀 Featured Project
+
+[![gaokao-analyzer](https://github-readme-stats.vercel.app/api/pin/?username=shuangzhebai&repo=gaokao-analyzer&theme=dark)](https://github.com/shuangzhebai/gaokao-analyzer)
 
 ### 🚀 Featured Project
 
